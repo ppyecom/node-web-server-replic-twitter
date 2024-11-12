@@ -1,6 +1,7 @@
 {
   "name": "proyect-web-server",
   "version": "1.0.0",
+  "type": "module",
   "description": "Proyecto Web Server NodeJs",
   "main": "src/app.js",
   "scripts": {
